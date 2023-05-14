@@ -158,6 +158,11 @@ footer {
     color: #850AE5;
     font-weight: bolder;
 }
+    <html>
+    <head>
+        <title>BitMarket</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
     <body>
         <header>
             <img class="logo" src="https://backoffice.algoritmika.org/uploads/2021/03/logo1_0_1615899136.svg">
